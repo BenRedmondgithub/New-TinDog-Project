@@ -1,8 +1,7 @@
 
-#gradient-background {
-    background: ff4c68
-}
-
+.gradient-background {
+    background-color: ff4c68;
+  }
 
   @keyframes gradient-animation {
     0% {
